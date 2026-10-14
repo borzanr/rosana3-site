@@ -1,6 +1,6 @@
 # rosana3.borzanti.com — versão alternativa com vídeo no hero
 
-Igual ao rosana2, com sombras de folhas em movimento no fundo do hero (Seedance 2.5, loop de 7 s).
+Igual ao rosana2, com sombras de folhas em movimento no fundo do hero (Seedance 2.5, loop de 4,4 s, versão com balanço mais visível).
 Gerado de `D:\Sites\rosana-alt` com:
 
     cd D:\Sites\rosana-alt\app
